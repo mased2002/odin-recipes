@@ -1,0 +1,27 @@
+.title{
+    text-align: center;
+}
+.small-heading{
+    color: rgb(176, 169, 169);
+    margin-top: 0;
+}
+.steps{
+    font-weight: 500;
+    font-size: 1.5em;
+    color: rgb(97, 96, 96);
+    /* display: inline-block; */
+    margin-bottom: 10px;
+}
+ol{
+    list-style-type:  none;
+}
+#directions{
+    width: 60%;
+}
+.img-title{
+    width: 500px;
+    padding-bottom: 4%;
+}
+.title-heading{
+    padding-bottom: 4%;
+}
